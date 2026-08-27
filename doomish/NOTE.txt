@@ -1,0 +1,4 @@
+I'm gonna try to move this to a plugin later; since asset-packages might be coming soon...
+Whenever I happen to do so and if it's before the 1.8 release; holler at me if you want to play it 
+(since i'll have to add you to the dev team).
+Do I sound like Eric yet?
