@@ -1607,12 +1607,12 @@
             "The Last Stand": "The Wast Stand"
         },
         "inputDeviceNames": {
-            "Keyboard": "Keyboawd",
-            "Keyboard P2": "Keyboawd P2"
+            "Keyboard": "Keyboawad",
+            "Keyboard P2": "Keyboawad P2"
         },
         "languages": {
             "Arabic": "Awabic",
-            "Belarussian": "Bewawussian",
+            "Belarussian": "Bewauwussian",
             "ChineseSimplified": "Chinese - Simpwified",
             "ChineseTraditional": "Chinese - Twaditionaw",
             "Croatian": "Cwoatian",
@@ -1635,8 +1635,8 @@
             "Kazakh": "Kazakh",
             "Korean": "Kowean",
             "Malay": "Maway",
-            "Persian": "Pewsian",
-            "PirateSpeak": "Piwate Speak",
+            "Persian": "Pawsian",
+            "PirateSpeak": "Piwates!! 3X",
             "Polish": "Powish",
             "PortugueseBrazil": "Powtuguese - Bwaziw",
             "PortuguesePortugal": "Powtuguese - Powtugaw",
@@ -1993,12 +1993,12 @@
     "vanillaTweaksText": "Vaniwwa Tweaks",
     "connectingTextRaw": "Connecting",
     "resourcePacksText": "Wesouwce Packs",
-    "resourcePacksWarningText": "Wesouwce packs awe HIGHWY expewimentaw and\nmay even just bug most of ve time.\nThey wiww wowk sometimes, but vey'we \nweawwy bwoken and not wecommended.",
+    "resourcePacksWarningText": "Sowwy, but wesouwce packs awe WEAAAWWY\nexpewimentaw so they might even just bug out!!\nIf you'we one Windows (which i can bet is the case >;3)\nthen this MAAYYY wowk fine fow you, but it's not guawanteed.",
     "willOpenLinkText": "This wiww open vis wink in youw web-bwowsew;",
     "warningContinueText": "Despite vis, do you wish to continue?",
-    "noelleIsReal1225": "So... say it. Say ve wowds I've been waiting to heaw.",
-    "stopText": "Stop",
-    "proceedText": "Pwoceed",
+    "noelleIsReal1225": "So... say it. Say ve wowds I've been waiting to heaw!",
+    "stopText": "Nyo",
+    "proceedText": "PWOCEED!!",
     "fromText": "Fwom",
     "toText": "To",
     "inText": "In",
@@ -2010,7 +2010,7 @@
     "nothingEnabledYetText": "Noving enabwed yet",
     "userInvalidResourcePacks": "Invawid wesouwce packs wocated at; \n${PACKS}\nPwease wead ve consowe fow mowe info.",
     "applyingResourcePacksText": "Appwying wesouwce packs...",
-    "doNotQuitGameText": "Do not quit ve game.",
+    "doNotQuitGameText": "(DO NOT QUIT THE GAME!! IT WIWW TOTAWWY BWEAK IT!!)",
     "failedToApplyResourcePack": "Faiwed to appwy wesouwce pack;\n${ERROR}",
     "menuTypesText": "Main Menu Backgwound",
     "botsInMenuText": "Spawn Bots in ve Main Menu",
@@ -2037,6 +2037,12 @@
         "lostWithAScoreOf": "Wost ${LEVEL} wiv a scowe of ${SCORE}",
         "wonWithAScoreOf": "Won ${LEVEL} wiv a scowe of ${SCORE}",
         "playersText": "Pwayews"
+    },
+    "newProfileWindow": {
+        "titleText": "New Pwowofile",
+        "scratchButtonText": "Stawt fwom Scwatch",
+        "cloneButtonText": "Cowopy vis Pwowofiwe",
+        "queryText": "Oooo.. do you wanna copy ve selected\npwowofiwe? Ow just stawt fwom scwatch?"
     },
     "comment2": "ok end of vaniwwa tweaks stuff comment hewe cuz im too wazy to wemove twaiwing commas"
 }
