@@ -1,0 +1,295 @@
+{
+	"mother3.bad_status_effect": {
+		"subtitle": "Player feels strange",
+		"sounds": [
+			{"name": "mellboii:mother3/bad_status_effect", "stream": true}
+		]
+	},
+	"mother3.healed": {
+		"subtitle": "Player gets healed from strangeness",
+		"sounds": [
+			{"name": "mellboii:mother3/healed", "stream": true}
+		]
+	},
+	"mother3.menu_accept": {
+		"subtitle": "Menu accepts",
+		"sounds": [
+			{"name": "mellboii:mother3/menu_accept"}
+		]
+	},
+	"mother3.menu_reject": {
+		"subtitle": "Menu rejects",
+		"sounds": [
+			{"name": "mellboii:mother3/menu_reject"}
+		]
+	},
+	"mother3.menuopen": {
+		"subtitle": "Menu gets open",
+		"sounds": [
+			{"name": "mellboii:mother3/open_menu"}
+		]
+	},
+	"mother3.menuclose": {
+		"subtitle": "Menu gets closed",
+		"sounds": [
+			{"name": "mellboii:mother3/close_menu"}
+		]
+	},
+	"mother3.menuver": {
+		"subtitle": "Menu moves",
+		"sounds": [
+			{"name": "mellboii:mother3/menu_ver"}
+		]
+	},
+	"mother3.menuhoz": {
+		"subtitle": "Menu moves",
+		"sounds": [
+			{"name": "mellboii:mother3/menu_hoz"}
+		]
+	},
+	"mother3.textbeep": {
+		"subtitle": "Speaking beep",
+		"sounds": [
+			{"name": "mellboii:mother3/text_beep"}
+		]
+	},
+	"generic.key_type": {
+		"subtitle": "Key clicks",
+		"sounds": [
+			{"name": "mellboii:key_typing/sound-01"},
+			{"name": "mellboii:key_typing/sound-02"},
+			{"name": "mellboii:key_typing/sound-03"},
+			{"name": "mellboii:key_typing/sound-04"},
+			{"name": "mellboii:key_typing/sound-05"},
+			{"name": "mellboii:key_typing/sound-06"},
+			{"name": "mellboii:key_typing/sound-07"},
+			{"name": "mellboii:key_typing/sound-08"}
+		]
+	},
+	"generic.sillycatvibes": {
+		"subtitle": "Pure noise pollution",
+		"sounds": [
+			{"name": "mellboii:generic/sillycatvibes", "stream": true}
+		]
+	},
+	"chat_sounds.doom2": {
+		"subtitle": "Radio pings",
+		"sounds": [
+			{"name": "mellboii:chat_sounds/doom2", "stream": true}
+		]
+	},
+	"chat_sounds.minty": {
+		"subtitle": "Minty notification",
+		"sounds": [
+			{"name": "mellboii:chat_sounds/minty", "stream": true}
+		]
+	},
+	"chat_sounds.ping": {
+		"subtitle": "Chat pings you",
+		"sounds": [
+			{"name": "mellboii:chat_sounds/ping", "stream": true}
+		]
+	},
+	"chat_sounds.steamy": {
+		"subtitle": "Steam message",
+		"sounds": [
+			{"name": "mellboii:chat_sounds/steamy", "stream": true}
+		]
+	},
+	"bombsquad.swish": {
+		"subtitle": "UI swishes around",
+		"sounds": [
+			{"name": "mellboii:bombsquad/swish", "stream": true},
+			{"name": "mellboii:bombsquad/swish2", "stream": true},
+			{"name": "mellboii:bombsquad/swish3", "stream": true}
+		]
+	},
+	"bombsquad.shield_down": {
+		"subtitle": "Shield breaks down",
+		"sounds": [
+			{"name": "mellboii:bombsquad/shieldDown", "stream": true}
+		]
+	},
+	"bombsquad.shield_up": {
+		"subtitle": "Shield goes up",
+		"sounds": [
+			{"name": "mellboii:bombsquad/shieldUp", "stream": true}
+		]
+	},
+	"bombsquad.ref_whistle": {
+		"subtitle": "Whistle blows",
+		"sounds": [
+			{"name": "mellboii:bombsquad/refWhistle", "stream": true}
+		]
+	},
+	"bombsquad.tap": {
+		"subtitle": "Tap noise",
+		"sounds": [
+			{"name": "mellboii:bombsquad/tap", "stream": true}
+		]
+	},
+	"bombsquad.gun_cock": {
+		"subtitle": "Gun cocks",
+		"sounds": [
+			{"name": "mellboii:bombsquad/gunCocking", "stream": true}
+		]
+	},
+	"bombsquad.click": {
+		"subtitle": "Clicking noise",
+		"sounds": [
+			{"name": "mellboii:bombsquad/click01", "stream": true}
+		]
+	},
+	"bombsquad.blip": {
+		"subtitle": "Console blips open",
+		"sounds": [
+			{"name": "mellboii:bombsquad/blip", "stream": true}
+		]
+	},
+	"bombsquda.cheer": {
+		"subtitle": "Crowd cheer",
+		"sounds": [
+			{"name": "mellboii:bombsquda/cheer", "stream": true}
+		]
+	},
+	"bombsquda.cheer2": {
+		"subtitle": "Crowd cheer 2",
+		"sounds": [
+			{"name": "mellboii:bombsquda/cheer2", "stream": true}
+		]
+	},
+	"bombsquda.homer2": {
+		"subtitle": "Homero variation",
+		"sounds": [
+			{"name": "mellboii:bombsquda/homer2", "stream": true}
+		]
+	},
+	"bombsquda.homeroshort": {
+		"subtitle": "Echoes of homero",
+		"sounds": [
+			{"name": "mellboii:bombsquda/homeroshort", "stream": true}
+		]
+	},
+	"bombsquda.key_horizontal": {
+		"subtitle": "Horizontal key sound",
+		"sounds": [
+			{"name": "mellboii:bombsquda/key_horizontal", "stream": true}
+		]
+	},
+	"bombsquda.key_type": {
+		"subtitle": "Typing key sound",
+		"sounds": [
+			{"name": "mellboii:bombsquda/key_type", "stream": true}
+		]
+	},
+	"bombsquda.key_vertical": {
+		"subtitle": "Vertical key sound",
+		"sounds": [
+			{"name": "mellboii:bombsquda/key_vertical", "stream": true}
+		]
+	},
+	"bombsquda.lobotomized": {
+		"subtitle": "Lobotomized humm",
+		"sounds": [
+			{"name": "mellboii:bombsquda/lobotomized", "stream": true}
+		]
+	},
+	"bombsquda.mortal_damage": {
+		"subtitle": "Player takes mortal damage",
+		"sounds": [
+			{"name": "mellboii:bombsquda/mortal_damage", "stream": true}
+		]
+	},
+	"bombsquda.mortal_dmg_spike": {
+		"subtitle": "Player gets spiked from mortal damage",
+		"sounds": [
+			{"name": "mellboii:bombsquda/mortal_dmg_spike", "stream": true}
+		]
+	},
+	"bombsquda.parried": {
+		"subtitle": "Parry impact",
+		"sounds": [
+			{"name": "mellboii:bombsquda/parried", "stream": true}
+		]
+	},
+	"bombsquda.player_death_3": {
+		"subtitle": "Player dies",
+		"sounds": [
+			{"name": "mellboii:bombsquda/playerDeath3", "stream": true}
+		]
+	},
+	"bombsquda.player_death_4": {
+		"subtitle": "Player dies",
+		"sounds": [
+			{"name": "mellboii:bombsquda/playerDeath4", "stream": true}
+		]
+	},
+	"bombsquda.shield2": {
+		"subtitle": "Shield goes up",
+		"sounds": [
+			{"name": "mellboii:bombsquda/shield2", "stream": true}
+		]
+	},
+	"bombsquda.shield3": {
+		"subtitle": "Shield goes up",
+		"sounds": [
+			{"name": "mellboii:bombsquda/shield3", "stream": true}
+		]
+	},
+	"bombsquda.shield_down": {
+		"subtitle": "Shield breaks down",
+		"sounds": [
+			{"name": "mellboii:bombsquda/shieldDown", "stream": true}
+		]
+	},
+	"bombsquda.shield_reflect": {
+		"subtitle": "Shield reflects",
+		"sounds": [
+			{"name": "mellboii:bombsquda/shieldReflect", "stream": true}
+		]
+	},
+	"bombsquda.shield_up": {
+		"subtitle": "Shield goes up",
+		"sounds": [
+			{"name": "mellboii:bombsquda/shieldUp", "stream": true}
+		]
+	},
+	"bombsquda.smaash": {
+		"subtitle": "SMAAASH!",
+		"sounds": [
+			{"name": "mellboii:bombsquda/smaash", "stream": true}
+		]
+	},
+	"bombsquda.supertrans": {
+		"subtitle": "Transition burst",
+		"sounds": [
+			{"name": "mellboii:bombsquda/supertrans", "stream": true}
+		]
+	},
+	"bombsquda.swish": {
+		"subtitle": "UI swishes around painfully",
+		"sounds": [
+			{"name": "mellboii:bombsquda/swish", "stream": true},
+			{"name": "mellboii:bombsquda/swish2", "stream": true},
+			{"name": "mellboii:bombsquda/swish3", "stream": true}
+		]
+	},
+	"bombsquda.title_press_1": {
+		"subtitle": "Title press",
+		"sounds": [
+			{"name": "mellboii:bombsquda/titlePress1", "stream": true}
+		]
+	},
+	"bombsquda.tnt_break": {
+		"subtitle": "Wood breaking",
+		"sounds": [
+			{"name": "mellboii:bombsquda/tnt_break", "stream": true}
+		]
+	},
+	"bombsquda.unpause": {
+		"subtitle": "Game resumes",
+		"sounds": [
+			{"name": "mellboii:bombsquda/unpause", "stream": true}
+		]
+	}
+}
