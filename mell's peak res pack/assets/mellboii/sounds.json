@@ -107,19 +107,19 @@
 	"bombsquad.shield_down": {
 		"subtitle": "Shield breaks down",
 		"sounds": [
-			{"name": "mellboii:bombsquad/shieldDown", "stream": true}
+			{"name": "mellboii:bombsquad/shielddown", "stream": true}
 		]
 	},
 	"bombsquad.shield_up": {
 		"subtitle": "Shield goes up",
 		"sounds": [
-			{"name": "mellboii:bombsquad/shieldUp", "stream": true}
+			{"name": "mellboii:bombsquad/shieldup", "stream": true}
 		]
 	},
 	"bombsquad.ref_whistle": {
 		"subtitle": "Whistle blows",
 		"sounds": [
-			{"name": "mellboii:bombsquad/refWhistle", "stream": true}
+			{"name": "mellboii:bombsquad/refwhistle", "stream": true}
 		]
 	},
 	"bombsquad.tap": {
@@ -131,7 +131,7 @@
 	"bombsquad.gun_cock": {
 		"subtitle": "Gun cocks",
 		"sounds": [
-			{"name": "mellboii:bombsquad/gunCocking", "stream": true}
+			{"name": "mellboii:bombsquad/guncocking", "stream": true}
 		]
 	},
 	"bombsquad.click": {
@@ -215,13 +215,13 @@
 	"bombsquda.player_death_3": {
 		"subtitle": "Player dies",
 		"sounds": [
-			{"name": "mellboii:bombsquda/playerDeath3", "stream": true}
+			{"name": "mellboii:bombsquda/playerdeath3", "stream": true}
 		]
 	},
 	"bombsquda.player_death_4": {
 		"subtitle": "Player dies",
 		"sounds": [
-			{"name": "mellboii:bombsquda/playerDeath4", "stream": true}
+			{"name": "mellboii:bombsquda/playerdeath4", "stream": true}
 		]
 	},
 	"bombsquda.shield2": {
@@ -239,19 +239,19 @@
 	"bombsquda.shield_down": {
 		"subtitle": "Shield breaks down",
 		"sounds": [
-			{"name": "mellboii:bombsquda/shieldDown", "stream": true}
+			{"name": "mellboii:bombsquda/shielddown", "stream": true}
 		]
 	},
 	"bombsquda.shield_reflect": {
 		"subtitle": "Shield reflects",
 		"sounds": [
-			{"name": "mellboii:bombsquda/shieldReflect", "stream": true}
+			{"name": "mellboii:bombsquda/shieldreflect", "stream": true}
 		]
 	},
 	"bombsquda.shield_up": {
 		"subtitle": "Shield goes up",
 		"sounds": [
-			{"name": "mellboii:bombsquda/shieldUp", "stream": true}
+			{"name": "mellboii:bombsquda/shieldup", "stream": true}
 		]
 	},
 	"bombsquda.smaash": {
@@ -277,7 +277,7 @@
 	"bombsquda.title_press_1": {
 		"subtitle": "Title press",
 		"sounds": [
-			{"name": "mellboii:bombsquda/titlePress1", "stream": true}
+			{"name": "mellboii:bombsquda/titlepress1", "stream": true}
 		]
 	},
 	"bombsquda.tnt_break": {
