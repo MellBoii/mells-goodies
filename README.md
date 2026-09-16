@@ -8,7 +8,7 @@ so think of it as some sort of archival.
 However; this is NOT to say there's some stuff here that isn't being
 updated, like the DOOM-ish bombsquad experiment thing, and the Minecraft resource pack.
 <br>
-...don't look anywhere else tho, pretty please? 3;
+<sup><sub>...don't look anywhere else tho, pretty please? 3;</sup></sub>
 <br>
 ## QUICK LEGAL NOTE
 Various assets from Minecraft (vanilla) are included in the 
