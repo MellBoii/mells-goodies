@@ -1,0 +1,10 @@
+the pad is drawn at full opacity
+"evil upside down clouds for atmoshpere" are drawn at 9% opacity
+clouds are drawn at 42% opacity
+background highlight is drawn at 64% opacity
+mountains are drawn at 25% opacity
+mushrooms are drawn at full opacity
+bg gradient is drawn at full opacity
+
+the order of each element here is their exact order in the image;
+as for their positions, try recreating them from the image; trial and error will do
